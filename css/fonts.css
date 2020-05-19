@@ -1,0 +1,60 @@
+@font-face {
+	font-family: "VernadaR";
+	/*src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),*/
+		src: url("../fonts/verdana/VerdanaPro-Regular.woff") format("woff"),
+			 url("../fonts/verdana/VerdanaPro-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "VernadaM";
+	/*src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),*/
+		src: url("../fonts/verdana/VerdanaPro-SemiBold.woff") format("woff"),
+			 url("../fonts/verdana/VerdanaPro-SemiBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "VernadaB";
+	/*src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),*/
+		src: url("../fonts/verdana/VerdanaPro-Bold.woff") format("woff"),
+			 url("../fonts/verdana/VerdanaPro-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "HelveticaR";
+	/*src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),*/
+		src: url("../fonts/helvetica/Helvetica.woff") format("woff"),
+			 url("../fonts/helvetica/Helvetica.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "HelveticaB";
+	/*src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),*/
+		src: url("../fonts/helvetica/Helvetica-Bold.woff") format("woff"),
+			 url("../fonts/helvetica/Helvetica-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Droid";
+	/*src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/Roboto/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),*/
+		src: url("../fonts/droid/droid-sans.ttf") format("truetype");
+			/*url("../fonts/verdana/VerdanaPro-Regular.woff") format("woff"),*/
+			 
+	font-style: normal;
+	font-weight: normal;
+}
